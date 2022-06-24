@@ -6,3 +6,8 @@ the following fucntions will appears.
 
 here sendAmount will be use to send ethers or Weis to our smart contract. we simply select the address and enter the value of crypto(ether or wie) then hit sendAmount.
 as we hit sendAmout we will see the log file first the amount has be deposited to our smart contract then it will go to deployer address as the log image shown below.
+
+![image](https://user-images.githubusercontent.com/92707096/175656760-35084e21-d9a7-44a7-be7f-98da3f52dc75.png)
+
+Now we can see the log file what happen with this single click!
+
