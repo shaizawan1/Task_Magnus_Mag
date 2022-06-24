@@ -1,1 +1,2 @@
-# Task_Magnus_Mag
+# Blockchain Developer Exercise
+
