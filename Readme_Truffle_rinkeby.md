@@ -20,3 +20,7 @@ the following image shows the read function:
 following are write functions where we send 2 ether and the transection has been done be metamask.
 
 ![image](https://user-images.githubusercontent.com/92707096/175763039-bf279953-e888-44b6-989e-2f53320095b7.png)
+
+the events are shown below:
+
+![image](https://user-images.githubusercontent.com/92707096/175763190-012f095e-827b-4c36-835a-d273f99f4cea.png)
