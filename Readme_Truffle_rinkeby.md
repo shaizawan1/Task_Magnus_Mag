@@ -12,3 +12,9 @@ contract address: 0xa410B515a72B6878565516d33494Ae36eB0878eB
 then i verify it on [rinkeby.ioscan](https://rinkeby.etherscan.io/tx/0x41e12d2632e893c63d5ed1ae97f8be3d09ac00f7130423e9499b422d0bc7c76d)
 
 ![image](https://user-images.githubusercontent.com/92707096/175762689-835eeeb6-616c-4556-87b8-b544eb5761cb.png)
+
+the following image shows the read function:
+
+![image](https://user-images.githubusercontent.com/92707096/175762799-9f8ba7e2-db54-4ebf-a775-c5cf3f344738.png)
+
+
